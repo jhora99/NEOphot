@@ -649,7 +649,7 @@ def get_BCDphot(imagelist, firstboxsize, offset, do_mult_mos, impath, objectname
 # to exclude from dataset
 
 def eval_phot(photlist, times, fluxes, badtimes, badflux, xreloff, yreloff, objectname,
-              ch, xshift, yshift, do_mult_mos, impath):            
+              ch, xshift, yshift, do_mult_mos, impath, mosnum):            
     ch = getval(photlist[0][0],'CHNLNUM')
     matplotlib.use('Qt5Agg')
     plt.ion()
