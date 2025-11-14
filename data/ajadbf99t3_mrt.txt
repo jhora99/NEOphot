@@ -1,0 +1,31 @@
+Title: Infrared Fluxes and Light Curves of Near-Earth Objects: The
+    full Spitzer Sample
+Authors: Hora, J.L., Allen, A.J., Trilling, D.E., Smith, H.A., McNeill, A.
+Table: Periods Determined from IRAC Observations
+================================================================================
+Byte-by-byte Description of file: ajadbf99t3_mrt.txt
+--------------------------------------------------------------------------------
+   Bytes Format Units Label       Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---     Designation  Provisional Designation
+  12- 16 F5.3   h       Period       Derived period
+  18- 22 F5.3   h     e_Period       Uncertainty in Period
+  24- 31 E8.2   ---     FAP          False Alarm Probability
+  33- 37 F5.2   ---     Numperiods   Number of periods sampled
+  39- 42 I4     ---     Frames       Number of IRAC frames
+  44- 55 F12.6  d       MJDstart     MJD of first frame, JD-2,400,000.5
+  57- 62 F6.3   h       Duration     Duration of observation
+--------------------------------------------------------------------------------
+1996 FG3   3.558 0.001 0.00E+00  2.76 4654 55737.377000  9.816 
+2000 DP107 2.802 0.001 0.00E+00  3.63 5115 55897.548561 10.175 
+2001 UV16  0.483 0.002 3.82E-06  6.27   85 57161.411979  3.033 
+2002 AJ129 3.977 0.036 2.57E-14  2.25   99 55726.388994  8.940 
+2007 BX48  0.782 0.026 4.56E-02  3.09   60 57947.409105  2.421 
+2008 EY68  0.447 0.003 5.64E-06  5.42   66 58291.938392  2.420 
+2009 DR3   0.577 0.003 2.17E-08  4.20   64 58022.097453  2.421 
+2011 LL2   0.103 0.000 5.13E-04 17.56   55 58382.383701  1.811 
+2011 XA3   0.725 0.011 3.12E-05  2.50   53 57860.410521  1.810 
+2012 BF86  0.164 0.001 6.81E-03 11.06   48 57872.918427  1.815 
+2012 WK4   0.129 0.001 1.36E-03  2.68   26 58164.824117  0.346 
+2013 VO5   0.377 0.001 4.64E-12  6.42   69 58191.807763  2.420 
+2015 XC    0.545 0.008 7.74E-02  3.21   54 57826.763754  1.749 
